@@ -24,3 +24,6 @@
 .bottom {
     border-top: 1px black solid;
 }
+.row :hover {
+    cursor: pointer;
+}
